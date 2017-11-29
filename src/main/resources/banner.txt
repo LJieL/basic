@@ -1,0 +1,2 @@
+太极培训
+${spring-boot.version}
